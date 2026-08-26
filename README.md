@@ -25,23 +25,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I learned:** (repeat as needed)
 - .
-
+I learned using git to manage file locally and remotely, I mostly use function buttons on VSC instead of typing out commands. I also have some experience with using GitHub Desktop so it may benefit me in the future assignments.
 **I struggled with:** (repeat as needed)
 - .
-
+I didn't struggle
 **I need the instructor to help me with:** (repeat as needed)
 - .
-
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+I didn't need the instructor
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
 - .
-  
+N/A
 **I received help from the following people:** (repeat as needed)
 - . 
-
+N/A
 ---
 ## Copyrights and License
 IT4063C Data Technologies Analytics by [Yahya Gilany](https://yahyagilany.io). is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
