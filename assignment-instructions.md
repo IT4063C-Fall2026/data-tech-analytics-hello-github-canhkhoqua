@@ -4,13 +4,13 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 > If you're reading this in a text editor, you may notice the `- [ ]` and `- [x]` characters. These are used to create checkboxes in Markdown. You can use them to keep track of your progress through the assignment.
 
 ### Checkpoint 0: Create a GitHub Account and Install Git
-- [ ] First, you need to sign up for a Free GitHub account on GitHub.com. 
+- [x] First, you need to sign up for a Free GitHub account on GitHub.com. 
     - You don't need to create a new one for the class if you already have one, you're welcome to continue using your personal account
     - Your account username doesn't need to be your 6+2. Pick any professional username that you'd like.
       - Note: Your GitHub Profile and account is one of the artifacts you can use when applying for jobs and many employers may ask you to show your previous work as part of the interview process. So, professional usernames :)
     - Here's the official GitHub Docs on Signing up for a new GitHub account.
     - Optionally, Sign up for the GitHub Student Developer Pack. Not only does it offer you an upgraded Pro GitHub account for free, but it also comes with thousands of dollars worth of benefits and resources. You can learn more about the in the link provided. 
-- [ ] Install git and GitHub Desktop
+- [x] Install git and GitHub Desktop
   - Links to it is in the module on Canvas
   - If you install GitHub Desktop, it will also install Git for you.
 ### Checkpoint 1: Get the Starter Files on your Computer
@@ -25,7 +25,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 ### Checkpoint 2: Update the Repository
   - Open the repository in your text editor (Ideally, VS Code).
-  - [ ] **Adding New Files.**
+  - [x] **Adding New Files.**
     - Create a new file with the following name `intro.md` and paste in the following text (as is - do not modify it):
     
     ```
